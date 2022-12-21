@@ -2,10 +2,10 @@ import requests
 import json
 from config import keys
 
-class APIException(Exception):
+class APIException(Exception): # собственный класс исключений, наследуемый от Exception
     pass
 
-class CryptoConverter:
+class CryptoConverter: # обработка ошибок ввода пользователя
     @staticmethod
     def get_price(quote: str, base: str, amount: str):
 
