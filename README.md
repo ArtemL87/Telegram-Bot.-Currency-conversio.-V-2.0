@@ -3,4 +3,4 @@
 ___Конвертация валют через сайт cryptocompare.com___
 ## Launching the bot. Запуск бота.
 **To the config file.py adds the token of his telegram bot and runs app.py**
-__В файл config.py добавляет токен своего телеграмм бота и запускаете app.py__
+__В файл config.py добавляет токен своего телеграмм бота и запускайте app.py__
